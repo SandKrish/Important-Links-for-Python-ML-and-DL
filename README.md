@@ -1,3 +1,10 @@
+# Google Sponsored Python Courses for FREE
+[Introduction to Python Programming - Udacity](https://learndigital.withgoogle.com/digitalunlocked/course/introduction-to-python-programming)
+
+[Programming for Everybody (Getting Started with Python) - Created by University of Michigan and powered by Coursera](https://learndigital.withgoogle.com/digitalunlocked/course/programming-for-everybody-python)
+
+[Python Basics - Created by University of Michigan and powered by Coursera](https://learndigital.withgoogle.com/digitalunlocked/course/python-basics)
+
 # SVM Classifiers
 [Duality and Geometry in SVM Classifiers](https://www.robots.ox.ac.uk/~cvrg/bennett00duality.pdf)
 
