@@ -5,6 +5,18 @@
 
 [Python Basics - Created by University of Michigan and powered by Coursera](https://learndigital.withgoogle.com/digitalunlocked/course/python-basics)
 
+#Free courses by Harvard University
+
+[CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
+
+[Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
+
+#Free courses by Stanford university
+
+[Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)
+
+[Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+
 # SVM Classifiers
 [Duality and Geometry in SVM Classifiers](https://www.robots.ox.ac.uk/~cvrg/bennett00duality.pdf)
 
