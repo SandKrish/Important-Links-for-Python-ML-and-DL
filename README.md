@@ -37,4 +37,5 @@
 
 # NLP
 [Cosine_similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+
 [Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
