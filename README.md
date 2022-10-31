@@ -16,9 +16,20 @@
 # Free courses by Stanford university
 
 [Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)
-[PDFs for [Mining Massive Data Sets] (http://www.mmds.org/)
+[PDFs for Mining Massive Data Sets] (http://www.mmds.org/)
 
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+
+# Free courses on Machine Learning by Kaggle
+[Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+
+[Python](https://www.kaggle.com/learn/python)
+
+[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+[Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+
+
 
 # SVM Classifiers
 [Duality and Geometry in SVM Classifiers](https://www.robots.ox.ac.uk/~cvrg/bennett00duality.pdf)
