@@ -50,3 +50,8 @@
 [Cosine_similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
 
 [Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
+
+# Class Imbalance
+[SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf)
+
+[A New Oversampling Method Based on the Classification Contribution Degree](https://www.mdpi.com/2073-8994/13/2/194)
