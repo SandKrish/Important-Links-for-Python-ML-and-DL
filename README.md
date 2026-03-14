@@ -1,4 +1,6 @@
-# This document contains Free Course links or Important links for Statistics, Data Science, Python, ML, and DL
+# Free Learning Resources for Data Science
+
+This repository contains free course links and useful resources for learning:
 
 # SVM Classifiers
 [Duality and Geometry in SVM Classifiers](https://www.robots.ox.ac.uk/~cvrg/bennett00duality.pdf)
@@ -24,3 +26,7 @@
 [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf)
 
 [A New Oversampling Method Based on the Classification Contribution Degree](https://www.mdpi.com/2073-8994/13/2/194)
+
+## Author
+
+Sandhya Krishnan
